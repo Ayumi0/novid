@@ -1,4 +1,6 @@
-enabled: true
+enabledmessage: ""
+
+disabledmessage: ""
 
 messages_enabled: true
 
